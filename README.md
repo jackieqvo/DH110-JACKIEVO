@@ -15,6 +15,13 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 > Since we are expected to eventually produce something physicial, I felt that cards right now have developed in more creative regards. With the UX design of this website adjusted, seniors would better be able to make more exciting greeting cards and use what they know (traditional mailing) to reach loved ones from a safe distance. In order to get to this point, websites need to undergo improvements to make the process as easy as possible.
 
+# Severity Scale: Usability Problems #
+**Rating** | **Description** 
+-----------|--------------------
+1 | This is not seen as a usability problem at this time.
+2 | Minor usability problem, this is less of a priority to fix.
+3 | Major usability problem, this is the top priority to fix.
+
 ## __Website 01: [wikiHow](https://www.wikihow.com/Main-Page)__ ##
 
 **Basic Information:**
@@ -25,16 +32,16 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 **Usability Heuristic** | **wikiHow Evaluation** | **Comments**
 --------------------|--------------------|----------
-**Visibility of system status** | Good, bad. | Critique:
-**Match between system and real world** | Good, bad. | Critique:
-**User control and freedom** | Good, bad. | Critique:
-**Consistency and standards** | Good, bad. | Critique:
-**Error prevention** | Good, bad. | Critique:
-**Recognition rather than recall** | Good, bad. | Critique:
-**Flexibility and efficiency of use** | Good, bad. | Critique:
-**Aesthetic and minimalist design** | Good, bad. | Critique:
-**Helps users with errors** | Good, bad. | Critique:
-**Help and documentation** | Good, bad. | Critique:
+**Visibility of system status** | Good, bad. | 1-3 | Critique:
+**Match between system and real world** | Good, bad. | 1-3 | Critique:
+**User control and freedom** | Good, bad. |  1-3 | Critique:
+**Consistency and standards** | Good, bad. |  1-3 | Critique:
+**Error prevention** | Good, bad. |  1-3 | Critique:
+**Recognition rather than recall** | Good, bad. |  1-3 | Critique:
+**Flexibility and efficiency of use** | Good, bad. |  1-3 | Critique:
+**Aesthetic and minimalist design** | Good, bad. |  1-3 | Critique:
+**Helps users with errors** | Good, bad. |  1-3 | Critique:
+**Help and documentation** | Good, bad. |  1-3 | Critique:
 
 **Severity Rating:**
 * 01. Major usuability problem:
@@ -49,20 +56,15 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 **The Heuristic Evaluation:**
 
-**Usability Heuristic** | **Dummies Evaluation** | **Comments**
+**Usability Heuristic** | **Dummies Evaluation** | **Severity Rating** | **Comments**
 --------------------|--------------------|----------
-**Visibility of system status** | Good, bad. | Critique:
-**Match between system and real world** | Good, bad. | Critique:
-**User control and freedom** | Good, bad. | Critique:
-**Consistency and standards** | Good, bad. | Critique:
-**Error prevention** | Good, bad. | Critique:
-**Recognition rather than recall** | Good, bad. | Critique:
-**Flexibility and efficiency of use** | Good, bad. | Critique:
-**Aesthetic and minimalist design** | Good, bad. | Critique:
-**Helps users with errors** | Good, bad. | Critique:
-**Help and documentation** | Good, bad. | Critique:
-
-**Severity Rating:**
-* 01. Major usuability problem:
-* 02. Important to fix:
-* 03. Top priority:
+**Visibility of system status** | Good, bad. | 1-3 | Critique:
+**Match between system and real world** | Good, bad. | 1-3 | Critique:
+**User control and freedom** | Good, bad. |  1-3 | Critique:
+**Consistency and standards** | Good, bad. |  1-3 | Critique:
+**Error prevention** | Good, bad. |  1-3 | Critique:
+**Recognition rather than recall** | Good, bad. |  1-3 | Critique:
+**Flexibility and efficiency of use** | Good, bad. |  1-3 | Critique:
+**Aesthetic and minimalist design** | Good, bad. |  1-3 | Critique:
+**Helps users with errors** | Good, bad. |  1-3 | Critique:
+**Help and documentation** | Good, bad. |  1-3 | Critique:
