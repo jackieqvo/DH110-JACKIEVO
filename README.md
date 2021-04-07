@@ -33,6 +33,8 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 Most of the articles follow a format of listing the steps, tips, warnings, (if applicable) and materials. At the bottom of the page, there is a Q&A to ask those in the community questions about the article/guide, a tip submission option, and a checklist so that people are able to gather their matierals. At a glance, I think that because the website has so much content to offer, sections and topics should be better emphasized. The home page feels almost overwhelming to look at because of the list of tending articles and articles that have been created by an "expert." Although this is helpful, the drawback is that the content overload might not be relevant to the individual user. On the movile application, all of these articles do not follow the desktop version's gridlike template and instead, is shown as an endless scroll of articles. 
 
+![wikiHow how-to card guide](wikiHowcard.png)
+
 **The Heuristic Evaluation:**
 
 **Usability Heuristic** | **wikiHow Evaluation** | **Comments for Improvement**
