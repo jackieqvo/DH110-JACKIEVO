@@ -78,3 +78,5 @@ Most of the articles follow a format of listing the steps, tips, warnings, (if a
 **Aesthetic and minimalist design**: Design is legible and highlights call to action. There is a balanced look. | **Good:** **Bad:** |  1-3 | **Critique:**
 **Helps users with errors**: Have an indivator about an error and give information on how to fix it moving forward. | **Good:** **Bad:** |  1-3 | **Critique:**
 **Help and documentation**: | **Good:** **Bad:** |  1-3 | **Critique:**
+
+![Dummies categories](Dummiessections.png)
