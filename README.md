@@ -27,7 +27,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 ![wikiHow Home page](wikiHowhome.png)
 
 **Basic Information:**
-> *wikiHow is a database of how-to-guides that consist of step-by-step instructions. These are often consisted of still images and even animated images. The site is an open source that is often found at the top of search results. The site's most popular article is "How to Take a Screenshot in Microsoft Windows," showing that the site is geared to help answer random questions through visuals and instructions. It is an open and free source that allows people tto edit pages and articles.
+> *wikiHow is a database of how-to-guides that consist of step-by-step instructions. These are often consisted of still images and even animated images. The site is an open source that is often found at the top of search results. The site's most popular article is "How to Take a Screenshot in Microsoft Windows," showing that the site is geared to help answer random questions through visuals and instructions. It is an open and free source that allows people tto edit pages and articles.*
 
 **Pre-Heuristic Evaluation:**
 
