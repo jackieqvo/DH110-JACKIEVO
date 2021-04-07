@@ -24,6 +24,8 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 ## __Website 01: [wikiHow](https://www.wikihow.com/Main-Page)__ ##
 
+![wikiHome page](wikiHowhome.png)
+
 **Basic Information:**
 
 **Pre-Heuristic Evaluation:**
