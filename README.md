@@ -57,7 +57,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 **The Heuristic Evaluation:**
 
 **Usability Heuristic** | **Dummies Evaluation** | **Severity Rating** | **Comments**
---------------------|--------------------|----------
+--------------------|----------------------------|---------------------|----------
 **Visibility of system status** | Good, bad. | 1-3 | Critique:
 **Match between system and real world** | Good, bad. | 1-3 | Critique:
 **User control and freedom** | Good, bad. |  1-3 | Critique:
