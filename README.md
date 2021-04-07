@@ -15,7 +15,10 @@ __Project Description__
 
 > Since we are expected to eventually produce something physicial, I felt that cards right now have developed in more creative regards. With the UX design of this website adjusted, seniors would better be able to make more exciting greeting cards and use what they know (traditional mailing) to reach loved ones from a safe distance. In order to get to this point, websites need to undergo improvements to make the process as easy as possible.
 
-__wikiHow__
-Basic Information: There is a wikiHow mobile app in the Apple Store for iPhone users. 
+__01. [wikiHow](https://www.wikihow.com/Main-Page)__
+
+Basic Information: 
+
+__
 
 
