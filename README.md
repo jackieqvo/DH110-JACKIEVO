@@ -58,7 +58,11 @@ Most of the articles follow a format of listing the steps, tips, warnings, (if a
 
 **Basic Information:**
 
+![Dummies search bar](Dummiessearch.png)
+
 **Pre-Heuristic Evaluation:**
+
+![Dummies how-to card guide](Dummiescard.png)
 
 **The Heuristic Evaluation:**
 
