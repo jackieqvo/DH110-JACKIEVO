@@ -1,5 +1,5 @@
 # Assignment 01: Heuristic Evaluation
-## DH110, JACQUELINE "JACKIE" VO
+## Digital Humanities 110 | Jacqueline "Jackie" Vo
 
 __Project Description__: 
 
