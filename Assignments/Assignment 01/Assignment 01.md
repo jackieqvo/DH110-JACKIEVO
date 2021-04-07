@@ -6,7 +6,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 # Project Description #
 
 *In regards to this specific assignment:*
-> This spring quarter's focus in the user interface and design course is focusing on the senior age group. In the pre-class survey, we were asked to view websites that may be of use to the older generation and how the layout may or may not help them naviagate. Since COVID-19 has put many of us in quarantine, I decided to look into instructional websites. I will be examining wikiHow and Dummies because of their virtually automatic appearance on the web; they have created instructions for a variety of topics. They also appear near the top of many search results.
+> This spring quarter's focus in the user interface and design course is on the senior age group. In the pre-class survey, we were asked to view websites that may be of use to the older generation and how the layout may or may not help them naviagate. Since COVID-19 has put many of us in quarantine, I decided to look into instructional websites. I will be examining wikiHow and Dummies because of their virtually automatic appearance on the web; they have created instructions for a variety of topics. They also appear near the top of many search results.
 
 > By improving the UX design, the sites would be able to better inform those seeking online instructions. With this adjusted, the projected result is that seniors will be able to reclaim that youthful feeling of being able to figure out problems and do various projects on their own. 
 
