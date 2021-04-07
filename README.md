@@ -15,10 +15,35 @@ __Project Description__
 
 > Since we are expected to eventually produce something physicial, I felt that cards right now have developed in more creative regards. With the UX design of this website adjusted, seniors would better be able to make more exciting greeting cards and use what they know (traditional mailing) to reach loved ones from a safe distance. In order to get to this point, websites need to undergo improvements to make the process as easy as possible.
 
-__01. [wikiHow](https://www.wikihow.com/Main-Page)__
+__Website 01: [wikiHow](https://www.wikihow.com/Main-Page)__
 
 Basic Information: 
 
-__
+Pre-Heuristic Evaluation:
 
+The Heuristic Evaluation:
 
+Usability Heuristic | wikiHow Evaluation | Comments
+--------------------|--------------------|----------
+Visibility of system status | Good, bad. | Critique:
+Match between system and real world | Good, bad. | Critique:
+User control and freedom | Good, bad. | Critique:
+Consistency and standards | Good, bad. | Critique:
+Error prevention | Good, bad. | Critique:
+Recognition rather than recall | Good, bad. | Critique:
+Flexibility and efficiency of use | Good, bad. | Critique:
+Aesthetic and minimalist design | Good, bad. | Critique:
+Helps users with errors | Good, bad. | Critique:
+Help and documentation | Good, bad. | Critique:
+
+Severity Rating:
+
+__Website 02: [Dummies](https://www.dummies.com/)__
+
+Basic Information: 
+
+Pre-Heuristic Evaluation:
+
+The Heuristic Evaluation:
+
+Severity Rating: 
