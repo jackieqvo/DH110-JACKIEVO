@@ -94,3 +94,6 @@ The website is very organized for a source that is meant to be extensive guides 
 **Help and documentation**: | **Good:** **Bad:** |  1-3 | **Critique:**
 
 ![Dummies categories](Dummiessections.png)
+
+**Overall Website Severity Rating:** 
+> 2. The website is overall an accessible site with relevant functions. There are some issues that are important to fix but it is still overall a user-friendly site.
