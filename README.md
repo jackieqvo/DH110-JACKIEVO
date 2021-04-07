@@ -24,7 +24,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 ## __Website 01: [wikiHow](https://www.wikihow.com/Main-Page)__ ##
 
-![wikiHome page](wikiHowhome.png)
+![wikiHow Home page](wikiHowhome.png)
 
 **Basic Information:**
 
@@ -46,6 +46,8 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 **Help and documentation** | Good, bad. |  1-3 | Critique:
 
 ## __Website 02: [Dummies](https://www.dummies.com/)__ ##
+
+![Dummies Home page](Dummieshome.png)
 
 **Basic Information:**
 
