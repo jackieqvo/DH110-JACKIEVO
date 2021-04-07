@@ -60,6 +60,7 @@ Most of the articles follow a format of listing the steps, tips, warnings, (if a
 ![Dummies Home page](Dummieshome.png)
 
 **Basic Information:**
+> *Dummies or For Dummise is a series of instructional guides. Dummies is best known for their distinctive books that are in the colors yellow and back. Their intention is to cover various topics and break down information that may appear to be intimiadting for beginniners. 
 
 ![Dummies search bar](Dummiessearch.png)
 
