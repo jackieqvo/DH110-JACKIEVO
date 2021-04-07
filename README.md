@@ -52,6 +52,9 @@ Most of the articles follow a format of listing the steps, tips, warnings, (if a
 
 ![wikiHow sections](wikiHowsections.png)
 
+**Overall Website Severity Rating:** 
+> 2. The website is overall an accessible site with relevant functions. There are some issues that are important to fix but it is still overall a user-friendly site.
+
 ## __Website 02: [Dummies](https://www.dummies.com/)__ ##
 
 ![Dummies Home page](Dummieshome.png)
