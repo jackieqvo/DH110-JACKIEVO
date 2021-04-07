@@ -4,6 +4,7 @@
 __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 __Project Description__ 
+
 *In regards to this specific assignement:*
 > This spring quarter's focus in the user interface and design course is focusing on the senior age group. In the pre-class survey, we were asked to view websites that may be of use to the older generation and how the layout may or may not help them naviagate. Since COVID-19 has put many of us in quarantine, I decided to look into instructional websites. I will be examining wikiHow because of their virtually automatic appearance on the web; wikihow has created instructions for a variety of topics. They also appear near the top of many search results.
 
