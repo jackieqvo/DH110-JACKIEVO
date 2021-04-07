@@ -43,11 +43,6 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 **Helps users with errors** | Good, bad. |  1-3 | Critique:
 **Help and documentation** | Good, bad. |  1-3 | Critique:
 
-**Severity Rating:**
-* 01. Major usuability problem:
-* 02. Important to fix:
-* 03. Top priority:
-
 ## __Website 02: [Dummies](https://www.dummies.com/)__ ##
 
 **Basic Information:**
