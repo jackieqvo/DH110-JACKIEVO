@@ -3,7 +3,7 @@
 ## Assignment 01: Heuristic Evaluation
 __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
-###### Project Description ######
+# Project Description #
 
 *In regards to this specific assignment:*
 > This spring quarter's focus in the user interface and design course is focusing on the senior age group. In the pre-class survey, we were asked to view websites that may be of use to the older generation and how the layout may or may not help them naviagate. Since COVID-19 has put many of us in quarantine, I decided to look into instructional websites. I will be examining wikiHow and Dummies because of their virtually automatic appearance on the web; they have created instructions for a variety of topics. They also appear near the top of many search results.
@@ -17,46 +17,52 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 ## __Website 01: [wikiHow](https://www.wikihow.com/Main-Page)__ ##
 
-Basic Information: 
+**Basic Information:**
 
-Pre-Heuristic Evaluation:
+**Pre-Heuristic Evaluation:**
 
-The Heuristic Evaluation:
+**The Heuristic Evaluation:**
 
-Usability Heuristic | wikiHow Evaluation | Comments
+**Usability Heuristic** | **wikiHow Evaluation** | **Comments**
 --------------------|--------------------|----------
-Visibility of system status | Good, bad. | Critique:
-Match between system and real world | Good, bad. | Critique:
-User control and freedom | Good, bad. | Critique:
-Consistency and standards | Good, bad. | Critique:
-Error prevention | Good, bad. | Critique:
-Recognition rather than recall | Good, bad. | Critique:
-Flexibility and efficiency of use | Good, bad. | Critique:
-Aesthetic and minimalist design | Good, bad. | Critique:
-Helps users with errors | Good, bad. | Critique:
-Help and documentation | Good, bad. | Critique:
+**Visibility of system status** | Good, bad. | Critique:
+**Match between system and real world** | Good, bad. | Critique:
+**User control and freedom** | Good, bad. | Critique:
+**Consistency and standards** | Good, bad. | Critique:
+**Error prevention** | Good, bad. | Critique:
+**Recognition rather than recall** | Good, bad. | Critique:
+**Flexibility and efficiency of use** | Good, bad. | Critique:
+**Aesthetic and minimalist design** | Good, bad. | Critique:
+**Helps users with errors** | Good, bad. | Critique:
+**Help and documentation** | Good, bad. | Critique:
 
-Severity Rating:
+**Severity Rating:**
+* 01. Major usuability problem:
+* 02. Important to fix:
+* 03. Top priority:
 
 ## __Website 02: [Dummies](https://www.dummies.com/)__ ##
 
-Basic Information: 
+**Basic Information:**
 
-Pre-Heuristic Evaluation:
+**Pre-Heuristic Evaluation:**
 
-The Heuristic Evaluation:
+**The Heuristic Evaluation:**
 
-Usability Heuristic | Dummies Evaluation | Comments
+**Usability Heuristic** | **Dummies Evaluation** | **Comments**
 --------------------|--------------------|----------
-Visibility of system status | Good, bad. | Critique:
-Match between system and real world | Good, bad. | Critique:
-User control and freedom | Good, bad. | Critique:
-Consistency and standards | Good, bad. | Critique:
-Error prevention | Good, bad. | Critique:
-Recognition rather than recall | Good, bad. | Critique:
-Flexibility and efficiency of use | Good, bad. | Critique:
-Aesthetic and minimalist design | Good, bad. | Critique:
-Helps users with errors | Good, bad. | Critique:
-Help and documentation | Good, bad. | Critique:
+**Visibility of system status** | Good, bad. | Critique:
+**Match between system and real world** | Good, bad. | Critique:
+**User control and freedom** | Good, bad. | Critique:
+**Consistency and standards** | Good, bad. | Critique:
+**Error prevention** | Good, bad. | Critique:
+**Recognition rather than recall** | Good, bad. | Critique:
+**Flexibility and efficiency of use** | Good, bad. | Critique:
+**Aesthetic and minimalist design** | Good, bad. | Critique:
+**Helps users with errors** | Good, bad. | Critique:
+**Help and documentation** | Good, bad. | Critique:
 
-Severity Rating: 
+**Severity Rating:**
+* 01. Major usuability problem:
+* 02. Important to fix:
+* 03. Top priority:
