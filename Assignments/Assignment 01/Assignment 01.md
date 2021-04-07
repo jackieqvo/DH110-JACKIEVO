@@ -15,13 +15,6 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 > Since we are expected to eventually produce something physicial, I felt that cards right now have developed in more creative regards. With the UX design of this website adjusted, seniors would better be able to make more exciting greeting cards and use what they know (traditional mailing) to reach loved ones from a safe distance. In order to get to this point, websites need to undergo improvements to make the process as easy as possible.
 
-# Usability Problems: Severity Scale #
-**Rating** | **Description** 
------------|--------------------
-1 | This is not seen as a usability problem at this time.
-2 | Minor usability problem, this is less of a priority to fix.
-3 | Major usability problem, this is the top priority to fix.
-
 ## __Website 01: [wikiHow](https://www.wikihow.com/Main-Page)__ ##
 
 ![wikiHow Home page](wikiHowhome.png)
@@ -31,9 +24,17 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 **Pre-Heuristic Evaluation:**
 
-Most of the articles follow a format of listing the steps, tips, warnings, (if applicable) and materials. At the bottom of the page, there is a Q&A to ask those in the community questions about the article/guide, a tip submission option, and a checklist so that people are able to gather their matierals. At a glance, I think that because the website has so much content to offer, sections and topics should be better emphasized. The home page feels almost overwhelming to look at because of the list of tending articles and articles that have been created by an "expert." Although this is helpful, the drawback is that the content overload might not be relevant to the individual user. On the movile application, all of these articles do not follow the desktop version's gridlike template and instead, is shown as an endless scroll of articles. 
+Most of the articles follow a format of listing the steps, tips, warnings, (if applicable) and materials. At the bottom of the page, there is a Q&A to ask those in the community questions about the article/guide, a tip submission option, and a checklist so that people are able to gather their matierals. At a glance, I think that because the website has so much content to offer, sections and topics should be better emphasized. The home page feels almost overwhelming to look at because of the list of tending articles and articles that have been created by an "expert." Although this is helpful, the drawback is that the content overload might not be relevant to the individual user. On the mobile application, all of these articles do not follow the desktop version's gridlike template and instead, is shown as an endless scroll of articles. 
 
 ![wikiHow how-to card guide](wikiHowcard.png)
+
+# Usability Problems: Severity Scale #
+**Rating** | **Description** 
+-----------|--------------------
+1 | This is not seen as a usability problem at this time.
+2 | Minor usability problem, this is less of a priority to fix.
+3 | Major usability problem, this is the top priority to fix.
+
 
 **The Heuristic Evaluation:**
 
@@ -60,19 +61,28 @@ Most of the articles follow a format of listing the steps, tips, warnings, (if a
 ![Dummies Home page](Dummieshome.png)
 
 **Basic Information:**
-> *Dummies or For Dummise is a series of instructional guides. Dummies is best known for their distinctive books that are in the colors yellow and back. Their intention is to cover various topics and break down information that may appear to be intimiadting for beginniners. 
-
+> *Dummies or For Dummies is a series of instructional guides. Dummies is best known for their distinctive books that are in the colors yellow and back. Their intention is to cover various topics and break down information that may appear to be intimidating for beginniners. The website itself sports the same colors and a search bar that takes up most of the home page. Just like wikiHow, it is an open source.
 ![Dummies search bar](Dummiessearch.png)
 
 **Pre-Heuristic Evaluation:**
 
+The website is very organized for a source that is meant to be extensive guides to to various topics. The text is white and bold for titles and tabs. The color yellow is engaging and their way of indicating an important button. Right on the home page, the two buttons/words in yellows is "SEARCH" and "Activate Now." Most of the guides follow the same format with their warnings and required materials. The bottom of the page has the footer with contact options and disclaimers. At a glance, this webstie looks like a website that is much more organized in terms of their categorization. Instead of popular articles, Dummies appears to be a site that is user oriented. Below the search bar on their home page, Dummies has a section that is labeled "Select a category you want to learn more about." In addition to this, the various categories feel less overwhelming than wikiHow and does not feel like clutter. Their mobile site and desktop site both have images and symbols that are representative of the topics.
+
 ![Dummies how-to card guide](Dummiescard.png)
+
+# Usability Problems: Severity Scale #
+**Rating** | **Description** 
+-----------|--------------------
+1 | This is not seen as a usability problem at this time.
+2 | Minor usability problem, this is less of a priority to fix.
+3 | Major usability problem, this is the top priority to fix.
+
 
 **The Heuristic Evaluation:**
 
 **Usability Heuristic** | **Dummies Evaluation** | **Severity Rating** | **Comments**
 --------------------|----------------------------|---------------------|----------
-**Visibility of system status**: Timely feedback upon interaction. Users should know that their site is properly functioning. | **Good:** **Bad:** | 2 | **Critique:**
+**Visibility of system status**: Timely feedback upon interaction. Users should know that their site is properly functioning. | **Good:** The page has no special effects and gives the information that users are looking for. Since the buttons and text is placed over the image, hovering over the navigation makes a black box appear. This further indicates that there is a button to be clicked/there is a hyperlink attached. The titles of the categories also shift slightly in place when the mouse hovers over it. | 1 | **No critiques:** I like the feel of this site. It feels like they really appreciated the minimalist aspect because just as their mission statement does, I did not feel overwhelmed at all when going through their home page. 
 **Match between system and real world**: Familiar language and symbols to overcome the initial introduction to a new site. | **Good**:  **Bad:**  | 3 | **Critique:**
 **User control and freedom**: Prevention and ease of misclicks and frustration. Does this site have an "emergency exit"? Options like undo, redo, etc. | **Good:** **Bad:**  | 1 | **Critique:**
 **Consistency and standards**: Consistent design and usage across the site. | **Good:** **Bad:**  |  1 | **Critique:**
