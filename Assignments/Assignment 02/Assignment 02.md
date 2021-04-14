@@ -13,7 +13,7 @@ WikiHow is a database of how-to-guides that consist of step-by-step instructions
 
 From my heuristic review, I noted that there was some clutter and difficulty searching for some items. The article itself is easier to find but items like tips, materials, and warnings are located at the bottom when it should be at the beginning or at least more prominent in the guide. 
 
-__Pilot UT Sections__
+## Pilot UT Sections ##
 
 * Introduction
 * Informed Consent
