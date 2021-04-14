@@ -21,15 +21,15 @@ __Pilot UT Sections__
 * Tasks
   * Basic Search Features
 
-  Participant is asked to use the search function to perform the primary use of the website.
+  *Participant is asked to use the search function to perform the primary use of the website.*
   
   * Supplemental Features
 
-  Participant is then asked to explore related articles and take a closer look at the content of the guide.
+  *Participant is then asked to explore related articles and take a closer look at the content of the guide.*
   
   * Exploring Beyond the Website
 
-  Users are giving space to look into useful tools that wikiHow provides (ex. PDF exporting, editing, etc.)
+  *Users are giving space to look into useful tools that wikiHow provides (ex. PDF exporting, editing, etc.)*
   
 * Post-Test Questionnaire 
 * Satisfaction Survey
