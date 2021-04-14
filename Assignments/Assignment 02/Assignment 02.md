@@ -7,6 +7,8 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 # Documentation: User Testing #
 
+**Introduction**: 
+
 WikiHow is a database of how-to-guides that consist of step-by-step instructions. The guides and articles are written across a variety of topics; the user would be able to explore topics and learn how to do things through detailed instructions and even animated images. The site is typically found at the top of search results—this only gives UX designers more of a reason to test it and make sure that users are getting the most out of the website. 
 
 After the first assignment, the heuristic evaluations indicated some discomfort in the clutter of the page. The average user would most likely stray away from the initial page of clutter. I concluded that even though wikiHow felt more accessible than Dummies, the format of the articles could be tweaked. I found that the search bar did not have the usual predictive text. This usually helps users narrow down their search and find what they need in an efficient manner. Overall, I chose to work with wikiHow because of their tips and interactive tabs. By letting their users to connect to others that are able to help them, the site shows that the information from their guides can be further broken down. The positives outweigh the cons; with this in mind, I created a survey from my notes.
@@ -15,6 +17,7 @@ Given my concerns, I have conducted a usability test to evaluate wikiHow's inter
 
 **Purpose of UT**: 
 
+The purpose of a usability test is to evaluate a website's accessibility in regards to their format, content, and essentially, their interface as a whole. The usability tests are recorded as a form of data. Not only will the data help understand the site from a user's perspective, their approach and opinions on the website will be able to help improve the user's experience. 
 
 **The Process and Materials**:
 
