@@ -15,6 +15,8 @@ From my heuristic review, I noted that there was some clutter and difficulty sea
 
 ## Pilot UT Sections ##
 
+## Pilot UT Sections ##
+
 * Introduction
 * Informed Consent
 * Background Questions: Pre-Survey
@@ -34,3 +36,17 @@ From my heuristic review, I noted that there was some clutter and difficulty sea
 * Post-Test Questionnaire 
 * Satisfaction Survey
 * Demographic Data
+
+> The purpose of these sections are to derive results that will help measure ease and frequency of use, website organization and consistency, website content, and user satisfaction.
+
+## User Testing Materials ##
+
+[Pilot UT Survey Form](https://forms.gle/EURnt27q63tjCQHZA)
+
+## User Testing Video ##
+
+[User Test Pilot](https://drive.google.com/file/d/1V1ASDjPqEVyoRVi13ZAAGy9dCFybN-TN/view?usp=sharing)
+
+# Reflection #
+
+Text here.
