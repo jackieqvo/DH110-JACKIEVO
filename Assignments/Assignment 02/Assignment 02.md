@@ -45,7 +45,7 @@ From my heuristic review, I noted that there was some clutter and difficulty sea
 
 ## User Testing Video ##
 
-[User Test Pilot](https://drive.google.com/file/d/1V1ASDjPqEVyoRVi13ZAAGy9dCFybN-TN/view?usp=sharing)
+[User Test Pilot](https://drive.google.com/file/d/1s5oI9HVBhYadpvylVcX8GzZwMlaPg1me/view?usp=sharing)
 
 # Reflection #
 
