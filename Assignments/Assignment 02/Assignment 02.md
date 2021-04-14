@@ -19,12 +19,18 @@ __Pilot UT Sections__
 * Informed Consent
 * Background Questions: Pre-Survey
 * Tasks
-  * 01. Basic Search Features
+  * Basic Search Features
+
   Participant is asked to use the search function to perform the primary use of the website.
-  * 02. Supplemental Features
+  
+  * Supplemental Features
+
   Participant is then asked to explore related articles and take a closer look at the content of the guide.
-  * 03. Exploring Beyond the Website
+  
+  * Exploring Beyond the Website
+
   Users are giving space to look into useful tools that wikiHow provides (ex. PDF exporting, editing, etc.)
+  
 * Post-Test Questionnaire 
 * Satisfaction Survey
 * Demographic Data
