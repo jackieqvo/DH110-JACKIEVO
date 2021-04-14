@@ -21,7 +21,7 @@ The purpose of a usability test is to evaluate a website's accessibility in rega
 
 **The Process and Materials**:
 
-Due to COVID-19 protocols, this pilot usability test will be conducted remotely. Both the participant and the moderator will participate from home and via a Zoom Conference Call. The participant will recieve a link to the survey and be asked to share their screen.The moderator will record the process throughout the survey and assist when needed. To provoke more stream of thought and to better understand the user's experience, the moderator will conversed casually to keep the user comfortable when thinking out loud.
+Due to COVID-19 protocols, this pilot usability test will be conducted remotely. Both the participant and the moderator will participate from home and via a Zoom Conference Call. The participant will recieve a link to the survey and be asked to share their screen. The moderator will record the process throughout the survey and assist when needed. The content recorded is ther user's reactions and their screen. To provoke more stream of thought and to better understand the user's experience, the moderator will converse casually to keep the user comfortable when thinking out loud.
 
 The moderator must first introduce the usability test process to the participant. After the user's informed consent agreement, there will be a section for pre-survey questions, three usability tasks, a post-test questionnaire, a satisfaction survey, and finally demographic data. The tasks will help the user navigate the website in regards to a relevant topic. After the tasks, there participant will be given time to comment on their favorite and least favorite aspects of the website. To further measure the user's satisfaction, the user will be able to choose from a list of words that would best describe their reaction and experience with the website. The demographic information of the participant will not be recorded for privacy purposes.
 
@@ -57,8 +57,10 @@ The moderator must first introduce the usability test process to the participant
 
 [Click here](https://drive.google.com/file/d/1s5oI9HVBhYadpvylVcX8GzZwMlaPg1me/view?usp=sharing) for the user test pilot video.
 
-# Reflection #
+# Reflection: Ways to Improve #
 **Summary of Findings**:
-Text here.
+Overall, the pilot test when smoothly. I predicted some issues and had the user experience and comment on my concerns about the website. I learned that the clutter of the wikiHow home page may intimidate users from using the website. On top of this, even though the lack of predictive text was not an issue for my participant, they found the articles itself to be convoluted. The testing environment has increments of silence due to confusion; there was dissatisfaction expressed about the articles' formats. A concern I had was that the user would not be able to figure out the tasks because of how the site's redundancy with colors and form made important links and buttons blend in. I found ways to give ther user hints so that they can finish the tasks. I found that conversations with the user will not only help them complete the tasks but there can also be a discussion of what they hope to see change. 
+
+In future tests, I hope to be able to further connect with the participant and have them complete more tasks. This pilot test ultimately showed me that users are most likely able to figure out a website. The point of usbalitity tests is for both efficiency and accesibility. This generally speaking would improve the user's expereince and they would then feel more inclined to use the website again.
 Summary of findings what went smoothly 
 what would you do differently
