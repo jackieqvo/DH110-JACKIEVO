@@ -59,6 +59,7 @@ The moderator must first introduce the usability test process to the participant
 
 # Reflection: Ways to Improve #
 **Summary of Findings**:
+
 Overall, the pilot test when smoothly. I predicted some issues and had the user experience and comment on my concerns about the website. I learned that the clutter of the wikiHow home page may intimidate users from using the website. On top of this, even though the lack of predictive text was not an issue for my participant, they found the articles itself to be convoluted. The testing environment has increments of silence due to confusion; there was dissatisfaction expressed about the articles' formats. A concern I had was that the user would not be able to figure out the tasks because of how the site's redundancy with colors and form made important links and buttons blend in. I found ways to give ther user hints so that they can finish the tasks. I found that conversations with the user will not only help them complete the tasks but there can also be a discussion of what they hope to see change. 
 
 In future tests, I hope to be able to further connect with the participant and have them complete more tasks. This pilot test ultimately showed me that users are most likely able to figure out a website. The point of usbalitity tests is for both efficiency and accesibility. This generally speaking would improve the user's expereince and they would then feel more inclined to use the website again.
