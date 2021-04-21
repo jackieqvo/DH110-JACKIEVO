@@ -62,7 +62,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > 
 > The recording of the interview can be found [here](https://drive.google.com/file/d/1lnoH_zhEBZ7M-rzjhvZn-osuFFTmpsG3/view?usp=sharing).
 > 
-> The transcription of the interview can be read [here](https://docs.google.com/document/d/1V3MiieThGWDt5c4Blm-cBfNHTwEywLLlgbrbytGKTVI/edit?usp=sharing).
+> The transcription of the interview can be read [here](https://docs.google.com/document/d/1swfU5s-KD2LQE-_L9JOszpZY5_xEgSdYOsz6AUH2lWM/edit?usp=sharing).
 
 ## **Notable Moments From The Interview:**
 
