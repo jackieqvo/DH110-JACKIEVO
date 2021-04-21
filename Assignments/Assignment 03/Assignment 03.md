@@ -49,7 +49,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > This interview was conducted over Zoom Conference Call to follow COVID-19 protocols. This is reasonable because in terms of accessibility and relevance, if a user were to need to look up a how-to guide, it should be on hand and thus, convenient. 
 > The user is asked to share their screen while I recorded the task. 
 
-> *I used a different participant from my usability test for consistency. Some peers are not as technologically inclined so I want to help make helpful websites as easy to access and understand as possible. My participant this time is more technologically inclined so I got to understand the perspective of someone who had a lot of feedback to give.*
+> *Some peers are not as technologically inclined so I want to help make helpful websites as easy to access and understand as possible. My participant this time is more technologically inclined so I got to understand the perspective of someone who had a lot of feedback to give.*
 
 ## **Participatory Research Materials** ##
 > **1. Contextual Inquiry Guide**
