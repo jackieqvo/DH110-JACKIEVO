@@ -13,8 +13,12 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 > Since then, I realized even though my generation is seen to be technolgically progressive, there are still many people who are not as tech-savvy. **People have different inclinations and so, by helping websites and information more accessible, I will then better be able to create inclusive spaces that will overlook people of all age groups and technological abilities.**
 
-**Step 1: Specify the Main Design Challenge** 
-
+## **Step 1: Specify the Main Design Challenge** ##
+**What is the main activity your project would support the users’ needs?**
+> Text.
+What is the basic need involved for that activity? (reference)
+What is(are) the traditional/current solution(s) to satisfy the needs?
+What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 **Step 2: Target Users** 
 
 **Step 3: Pick Research Methods** 
