@@ -67,14 +67,15 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 ## **Notable Moments From The Interview:**
 
 **The Power of Visual Instruction**
-> *00:06:44* "I'm not much of a reader. So whichever website that includes like pictures or video that helps me a lot to see cause I like doing things and learning stuff hands-on and being in person. Whereas reading can get a bit difficult and you can see there's a lot of misunderstanding when it tells you to do certain stuff and you do it wrong."
+> *00:06:44* - "I'm not much of a reader. So whichever website that includes like pictures or video that helps me a lot to see cause I like doing things and learning stuff hands-on and being in person. Whereas reading can get a bit difficult and you can see there's a lot of misunderstanding when it tells you to do certain stuff and you do it wrong."
 
 **Preference for Conciseness**
-> *00:14:19* "There's only like six steps. Very easy to follow. It's not like it's like 20 Pages 30 steps on how to make is like super simplistic and based off of that. You can even start up with this and then later you can add your own designs to it."
+> *00:14:19* - "There's only like six steps. Very easy to follow. It's not like it's like 20 Pages 30 steps on how to make is like super simplistic and based off of that. You can even start up with this and then later you can add your own designs to it."
 
 **Power to the User and Their Control**
-> *00:32:50* "I think the efficiency of how accessible these* are does help a lot but I do like the mystery and the opportunity of what can happen and spontaneity of what may happen. So that's why I didn't put like a full 10. I want that freedom to maybe to figure something out of my own too."
-> By "these," Kaela is referencing to the importancing of having access to the guides and answers in a timely manner.
+> *00:32:50* - "I think the efficiency of how accessible these are does help a lot but I do like the mystery and the opportunity of what can happen and spontaneity of what may happen. So that's why I didn't put like a full 10. I want that freedom to maybe to figure something out of my own too."
+
+> *By "these," Kaela is referencing to the importancing of having access to the guides and answers in a timely manner.*
 
 ## Reflection ##
 The contextual inquiry process is an important component of my understanding of UX design. While the usability test showed me how someone might have navigated a few tasks, I had to remember that those tasks might not have been something that they would really use. With this contextual inquiry, there was more freedom to make observations and learn from my user. The usability test formal and since this process felt more conversational, I felt like this user had much more to say. It was also interesting to see Kaela move from topic to topic. This includes when I gave her give minutes to navigate the web at her own will. She ended up finding resources on how to make cards if someone did not have the materials at home. I did not even think of this. Kaela's openness to learning and exploring because she already is accustomed to tech helped me look for problems of websites that go beyond someone's ability to use their device. I got to focus better on the websites and her perspective as a user. Of course this is only one user persona. I appreciated her willingness to have a conversation as well. She made great comments and was honest in her stream of consciousness.
