@@ -15,14 +15,21 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 ## **Step 1: Specify the Main Design Challenge** ##
 **What is the main activity your project would support the users’ needs?**
+
 > This project is aimed to support users in being able to navigate across a website containing how-to guides (ex. wikiHow, For Dummies, etc.) Since these websites are usually at the top of search results for how-to questions, it is important to promote and ensure accessibility as people attempt to get their questions answered. 
 
 > This project will support users in making a card and/or other arts and craft projects.
+
 **What is the basic need involved for that activity?**
+
 > Depending on the subject of the guide that the user searches up, different basic needs can be fulfilled. For arts and crafts, the psyhological needs are fulfilled. Their esteem needs are to be fulfilled because of their ability to create a piece of art. They will be able to follow instructions and be able to work their creative muscle.
+
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
+
 > Before how-to websites accumulated professionals and contributors to make articles and guides, people would have to learn about projects and skills mostly through their peers. Users might pay for guided instruction to learn new things. Generally, information would be passed through word of mouth or written by hand. If users were looking for convenient ways to do something, it would mostly be through trial and error or even recall. 
+
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
+
 > Limitations in learning new skills and projects would be the high time and material costs of lessons. The classroom is an excellent way to learn but there are plenty of projects that do not require an entire classroom. There are creative tasks like card making that just needs a few quick instructions. With technology, users may gain inspiration from a digital search and they will be able to pull up the list of required materials and instructions at almost any time. It makes it easier for users to remember and follow along.
 > When learning and recalling a project, users may stick to one method. With the various styles in the different how-guides, users will be able to choose what kind of craft project (in this case, a card) they are looking for. 
 ## **Step 2: Target Users** ##
