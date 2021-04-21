@@ -70,7 +70,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > *00:06:44* - "I'm not much of a reader. So whichever website that includes like pictures or video that helps me a lot to see cause I like doing things and learning stuff hands-on and being in person. Whereas reading can get a bit difficult and you can see there's a lot of misunderstanding when it tells you to do certain stuff and you do it wrong."
 
 **Preference for Conciseness**
-> *00:14:19* - "There's only like six steps. Very easy to follow. It's not like it's like 20 Pages 30 steps on how to make is like super simplistic and based off of that. You can even start up with this and then later you can add your own designs to it."
+> *00:14:19* - "There's only like six steps. Very easy to follow. It's not like it's like 20 pages 30 steps on how to make is like super simplistic and based off of that. You can even start up with this and then later you can add your own designs to it."
 
 **Power to the User and Their Control**
 > *00:32:50* - "I think the efficiency of how accessible these are does help a lot but I do like the mystery and the opportunity of what can happen and spontaneity of what may happen. So that's why I didn't put like a full 10. I want that freedom to maybe to figure something out of my own too."
