@@ -83,4 +83,4 @@ I think next time, I might offer more guidance so that I can gain more insight o
 
 I felt that aside from the lack of specific activities, the interview went well. I got a candid user perspective and also got to explore my values and wonders as a UX designer. I even went off script a few times to try to keep the interview's intended conversational tone. I really believe that this helped bring out honesty and the user's thought process. Overall, while I did look at the sample script, I tried to make my own so that it would be more relevant to my project's topic. The lesson learned from this assignment is that while users come with difference skillsets and preferences, something that they all have in common is their expectancy for efficiency and conciseness. People want to search and find things in a timely manner.
 
-I hope that one day I get to be able to participate as the user and be interviewed. Having that experience would literally reinforce my understanding of the user perspective.
+I hope that one day I get to be able to participate as the user and be interviewed. Having that experience would reinforce my understanding of the user perspective.
