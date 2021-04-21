@@ -35,7 +35,9 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 ## **Step 2: Target Users** ##
 
 > **Demographics:** Anyone interested in learning about new skills and projects. People who are more creatively inclined.
+> 
 > **Preferences:** Users who have the desire to learn and are looking for convenient resources to do so.
+> 
 > **Expertise:** Users do not need any particular level of expertise for this project.
 
 > The context of use for this project is that users will be able to learn how to make a greeting card. To complete this activity, users will able to follow a set of instructions and a list of materials.
