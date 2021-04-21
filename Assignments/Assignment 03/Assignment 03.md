@@ -50,13 +50,13 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > *I used a different participant from my usability test for consistency. Some peers are not as technologically inclined so I want to help make helpful websites as easy to access and understand as possible. My participant this time is more technologically inclined so I got to understand the perspective of someone who had a lot of feedback to give.*
 
 ## **Participatory Research Materials** ##
-> 1. Contextual Inquiry Guide
+> **1. Contextual Inquiry Guide**
 > 
 > The script for the interview is [here](https://docs.google.com/document/d/1V3MiieThGWDt5c4Blm-cBfNHTwEywLLlgbrbytGKTVI/edit?usp=sharing).
 > 
 > *This includes an introduction, goals, and contextual questions.*
 
-> 2. User Data
+> **2. User Data**
 > 
 > The recording of the interview can be found [here](https://drive.google.com/file/d/1lnoH_zhEBZ7M-rzjhvZn-osuFFTmpsG3/view?usp=sharing).
 > 
