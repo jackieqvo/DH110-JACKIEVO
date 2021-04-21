@@ -22,7 +22,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 **What is the basic need involved for that activity?**
 
-> Depending on the subject of the guide that the user searches up, different basic needs can be fulfilled. For arts and crafts, the psyhological needs are fulfilled. Their esteem needs are to be fulfilled because of their ability to create a piece of art. They will be able to follow instructions and be able to work their creative muscle.
+> Depending on the subject of the guide that the user searches up, different basic needs can be fulfilled. For arts and crafts, the psychological needs are fulfilled. Their self esteem needs are to be fulfilled because of their ability to create a piece of art. They will be able to follow instructions and work their creative muscle.
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
 
@@ -34,7 +34,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > When learning and recalling a project, users may stick to one method. With the various styles in the different how-guides, users will be able to choose what kind of craft project (in this case, a card) they are looking for. 
 ## **Step 2: Target Users** ##
 
-> **Demographics:** Anyone interested in learning about new skills and projects. People who are more creatively inclined.
+> **Demographics:** Anyone interested in learning about new skills and projects. People who are more inclined to learn on their own.
 > 
 > **Preferences:** Users who have the desire to learn and are looking for convenient resources to do so.
 > 
@@ -44,7 +44,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 ## **Step 3: Pick Research Method(s)** ##
 
-> This project follows observation methods by employing participatory observation. With this, there were activities and questions that the participant explores. This is to get a genuine reaction and opinion to the websites. The interview will most likely be conversation to promote and uphold the goal of candid reactions to best understand from the user's perspective.
+> This project follows observation methods by employing participatory observation. With this, there were activities and questions that the participant explores. This is to get a genuine reaction and opinion to the websites. The interview will most likely be a conversation to promote and uphold the goal of candid reactions to betert understand from the user's perspective.
 > 
 > This interview was conducted over Zoom Conference Call to follow COVID-19 protocols. This is reasonable because in terms of accessibility and relevance, if a user were to need to look up a how-to guide, it should be on hand and thus, convenient. 
 > The user is asked to share their screen while I recorded the task. 
