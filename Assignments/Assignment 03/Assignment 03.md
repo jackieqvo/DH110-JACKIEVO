@@ -53,7 +53,6 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > 1. Contextual Inquiry Guide
 > 
 > The script for the interview is [here](https://docs.google.com/document/d/1V3MiieThGWDt5c4Blm-cBfNHTwEywLLlgbrbytGKTVI/edit?usp=sharing).
-. 
 > 
 > *This includes an introduction, goals, and contextual questions.*
 
