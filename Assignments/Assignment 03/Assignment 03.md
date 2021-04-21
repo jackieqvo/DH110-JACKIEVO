@@ -66,7 +66,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 ## **Notable Moments From The Interview:**
 
-**The Power of Visual Instruction*
+**The Power of Visual Instruction**
 > *00:06:44* "I'm not much of a reader. So whichever website that includes like pictures or video that helps me a lot to see cause I like doing things and learning stuff hands-on and being in person. Whereas reading can get a bit difficult and you can see there's a lot of misunderstanding when it tells you to do certain stuff and you do it wrong."
 
 ## Reflection ##
