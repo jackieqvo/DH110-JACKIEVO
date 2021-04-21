@@ -25,7 +25,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > The script for the interview is here. 
 > 
 > *This includes an introduction, goals, and contextual questions.*
-> 
+
 > 2. User Data
 > 
 > The recording of the interview can be found here.
