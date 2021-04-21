@@ -52,15 +52,16 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 ## **Participatory Research Materials** ##
 > 1. Contextual Inquiry Guide
 > 
-> The script for the interview is here. 
+> The script for the interview is [here](https://docs.google.com/document/d/1V3MiieThGWDt5c4Blm-cBfNHTwEywLLlgbrbytGKTVI/edit?usp=sharing).
+. 
 > 
 > *This includes an introduction, goals, and contextual questions.*
 
 > 2. User Data
 > 
-> The recording of the interview can be found here.
+> The recording of the interview can be found [here](https://drive.google.com/file/d/1lnoH_zhEBZ7M-rzjhvZn-osuFFTmpsG3/view?usp=sharing).
 > 
-> The transcription of the interview can be read here.
+> The transcription of the interview can be read [here](https://docs.google.com/document/d/1V3MiieThGWDt5c4Blm-cBfNHTwEywLLlgbrbytGKTVI/edit?usp=sharing).
 
 **Notable Moments From The Interview:**
 
