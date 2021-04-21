@@ -74,6 +74,6 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 **Power to the User and Their Control**
 > *00:32:50* "I think the efficiency of how accessible these* are does help a lot but I do like the mystery and the opportunity of what can happen and spontaneity of what may happen. So that's why I didn't put like a full 10. I want that freedom to maybe to figure something out of my own too."
+> By "these," Kaela is referencing to the importancing of having access to the guides and answers in a timely manner.
 
-* By these, Kaela is referencing to the importancing of having access to the guides and answers in a timely manner.
 ## Reflection ##
