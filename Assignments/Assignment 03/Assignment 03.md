@@ -26,8 +26,8 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > The recording of the interview can be found here.
 > The transcription of the interview can be read here.
 
-## Notable Moments From The Interview: ##
+**Notable Moments From The Interview:**
 
 > Placeholder text.
 
-# Reflection #
+## Reflection ##
