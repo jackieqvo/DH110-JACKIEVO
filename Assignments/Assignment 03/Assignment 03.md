@@ -34,7 +34,20 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > When learning and recalling a project, users may stick to one method. With the various styles in the different how-guides, users will be able to choose what kind of craft project (in this case, a card) they are looking for. 
 ## **Step 2: Target Users** ##
 
-## **Step 3: Pick Research Methods** ##
+> **Demographics:** Anyone interested in learning about new skills and projects. People who are more creatively inclined.
+> **Preferences:** Users who have the desire to learn and are looking for convenient resources to do so.
+> **Expertise:** Users do not need any particular level of expertise for this project.
+
+> The context of use for this project is that users will be able to learn how to make a greeting card. To complete this activity, users will able to follow a set of instructions and a list of materials.
+
+## **Step 3: Pick Research Method(s)** ##
+
+> This project follows observation methods by employing participatory observation. With this, there were activities and questions that the participant explores. This is to get a genuine reaction and opinion to the website. The interview will most likely be conversation to promote and uphold the goal of candid reactions to best understand from the user's perspective.
+> 
+> This interview was conducted over Zoom Conference Call to follow COVID-19 protocols. This is reasonable because in terms of accessibility and relevance, if a user were to need to look up a how to guide, it should be on hand and thus, convenient. 
+> The user is asked to share their screen while I recorded the task. 
+
+> *I used the same participant from my usability test for consistency. Some peers are not as technologically inclined so I want to help make helpful websites as easy to access and understand as possible.*
 
 ## **Participatory Research Materials** ##
 > 1. Contextual Inquiry Guide
