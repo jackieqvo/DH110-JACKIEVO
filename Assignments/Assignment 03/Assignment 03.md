@@ -30,7 +30,7 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 
-> Limitations in learning new skills and projects would be the high time and material costs of lessons. The classroom is an excellent way to learn but there are plenty of projects that do not require an entire classroom. There are creative tasks like card making that just needs a few quick instructions. With technology, users may gain inspiration from a digital search and they will be able to pull up the list of required materials and instructions at almost any time. It makes it easier for users to remember and follow along.
+> Limitations in learning new skills and projects would be the high time and material costs of lessons. The classroom is an excellent way to learn but there are plenty of projects that do not require an entire learning course. There are creative tasks like card making that just needs a few quick instructions. With technology, users may gain inspiration from a digital search and they will be able to pull up the list of required materials and instructions at almost any time. It makes it easier for users to remember and follow along.
 > When learning and recalling a project, users may stick to one method. With the various styles in the different how-guides, users will be able to choose what kind of craft project (in this case, a card) they are looking for. 
 ## **Step 2: Target Users** ##
 
@@ -64,8 +64,9 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > 
 > The transcription of the interview can be read [here](https://docs.google.com/document/d/1V3MiieThGWDt5c4Blm-cBfNHTwEywLLlgbrbytGKTVI/edit?usp=sharing).
 
-**Notable Moments From The Interview:**
+## **Notable Moments From The Interview:**
 
-> Placeholder text.
+**The Power of Visual Instruction*
+> *00:06:44* "I'm not much of a reader. So whichever website that includes like pictures or video that helps me a lot to see cause I like doing things and learning stuff hands-on and being in person. Whereas reading can get a bit difficult and you can see there's a lot of misunderstanding when it tells you to do certain stuff and you do it wrong."
 
 ## Reflection ##
