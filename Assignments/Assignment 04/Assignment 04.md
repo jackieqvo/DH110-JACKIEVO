@@ -6,8 +6,9 @@
 __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 # UX Storytelling #
-**What is the purpose of UX storytelling?**
+**What is the purpose of UX storytelling in this project?**
 
-> This project is still focused on digital instruction. To reiterate the project description from previous assignments, I was previously looking to take what we know as a technologically progressive generation to appeal to older age groups with something that they are familiar with. I studied websites with how-to guides to remind others of the positive effects of technology. Since I was not able to conduct my usability test with someone from an older age group, I asked one of my peers to be a participant. 
+> The goal of this project is to help people of all ages and technological abilities be able to learn from digital archives through remote instruction. Even before the COVID-19 pandemic, many people were already using remote instruction in their lives. Whether it be a good tutorial on how to fix a leaky faucet or for their creative outlets, digital instruction has been gathered and compressed into websites like wikiHow. 
 
-> Since then, I realized even though my generation is seen to be technolgically progressive, there are still many people who are not as tech-savvy. **People have different inclinations and so, by helping websites and information more accessible, I will then better be able to create inclusive spaces that will overlook people of all age groups and technological abilities.**
+> By utilizing UX storytelling, I will be able to better understand the user's perspective and thus, continue to filter out potential biases and personal points that I may have held onto during the usability testing and the contextual inquiry interview. In addition to this, UX storytelling is able to build upon the data that is gathered from these interviews by pushes the focus onto the user. These methods are meant to be user-centered and a user's experience goes beyond their interaction with a website or program's design. Furthermore, by developing personas and scenarios for this project, I would be able to visualize how to best help various users. Putting the user's thoughts and goals into perspective will help highlight potential problems with the website and program. Through this, I can better empathize with their personalized stories. 
+
