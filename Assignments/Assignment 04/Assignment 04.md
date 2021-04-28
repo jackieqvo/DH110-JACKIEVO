@@ -18,3 +18,15 @@ After identifying some key points using user research derived from interviews an
   * The header has icons that are helpful in aiding users who are more visually oriented. Users shouldn't have to scroll a certain way to view icons on the header because those buttons lead to prominent parts of the website.
 * Informational Section
   * Each how-to article has a section that contains navigation links to the steps, questions and answers, tips and warnings, and even a list of materials that the users might need. Although it upholds wikiHow's color scheme, it would help for users to find these links right away. Content such as "Tips and Warnings" and "Things You'll Need" are more essential and should be placed at the forefront of the article rather than later in the guide.
+
+## Persona 1: August Foster ##
+![August Foster Persona](Persona1.png)
+![August Foster Empathy Map](Persona12.png)
+![August Foster Scenarios](Persona13.png)
+![August Foster Journey Map](Persona14.png)
+
+## Persona 1: Anne Ellis ##
+![Anne Ellis Persona](Persona2.png)
+![Anne Ellis Empathy Map](Persona22.png)
+![Anne Ellis Scenarios](Persona23.png)
+![Anne Ellis Journey Map](Persona24.png)
