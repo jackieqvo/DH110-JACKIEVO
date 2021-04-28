@@ -5,8 +5,7 @@
 ## Assignment 04: Persona + Scenario ##
 __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
-# What is the purpose of UX storytelling? #
-
+# UX Storytelling #
 **What is the purpose of UX storytelling?**
 
 > This project is still focused on digital instruction. To reiterate the project description from previous assignments, I was previously looking to take what we know as a technologically progressive generation to appeal to older age groups with something that they are familiar with. I studied websites with how-to guides to remind others of the positive effects of technology. Since I was not able to conduct my usability test with someone from an older age group, I asked one of my peers to be a participant. 
