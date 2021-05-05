@@ -17,5 +17,5 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 ## Tasks ##
 
-## Wireframes and Wireflow (V1 - Before Testing)##
-![Before Testing Prototype](prototype.png)
+## Wireframes and Wireflow (V1 - Before Testing) ##
+![Before Testing Prototype](prototype.jpg)
