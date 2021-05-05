@@ -14,3 +14,8 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > Target users value efficiency and clarity when going through their how-to guides. In this project, the prototyping will be for the user's mobile experience with the site. User personas were created based on the premise of each individual's willingness to learn on their own for adequate solutions. While one user persona was a college student looking to maximize his time during remote learning, the other user persona needed to learn on her own so that she wouldn't have to depend on her family. 
 
 > The purpose of this low-fidelity prototype is to test how these features are able to flow and function in this earlier readaptation of this how-to website. These prototypes will help see if the features will work for users in a setting that is not imagined. As the designer, I will again be able to watch how my users navigate and feel about my features. In addition to this, it would be a good opportunity for me to ask if there is something that they feel is lacking from the website/mobile application. 
+
+## Tasks ##
+
+## Wireframes and Wireflow (V1 - Before Testing)##
+![Before Testing Prototype](prototype.png)
