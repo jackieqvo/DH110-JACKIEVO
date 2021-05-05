@@ -1,7 +1,4 @@
 # Bridging Generations: The Intersection of Digital Instruction and Tentative Questions
-
-> *The objective of this assignment is to begin detaching myself towards the website(s) I have been analyzing to understand things from the user's perspective. It is important to gain new insight and things that I have not thought of.*
- 
 ## Assignment 05: Low Fidelity Prototype ##
 __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
