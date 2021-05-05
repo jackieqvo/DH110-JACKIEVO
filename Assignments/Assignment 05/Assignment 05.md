@@ -34,5 +34,5 @@ The second task and pathway is just exploration of the article. If they have no 
 * **Informational Section/Ratings**: On top of allowing users to submit critiques and comments about the articles, users are also able to rate the articles. From the materials to their tips and warnings, this feature is meant to give the users more control. This is projected to help the article be more helpful for others. In addition to this, the ratings data can be used to help sort related articles and filter out articles by the user's preferences. 
 
 ## Prototype Testing ##
-> **User One**
+**User One**
 ![User 1 Walkthrough Pathway](user1.jpg)
