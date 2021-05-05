@@ -16,6 +16,11 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > The purpose of this low-fidelity prototype is to test how these features are able to flow and function in this earlier readaptation of this how-to website. These prototypes will help see if the features will work for users in a setting that is not imagined. As the designer, I will again be able to watch how my users navigate and feel about my features. In addition to this, it would be a good opportunity for me to ask if there is something that they feel is lacking from the website/mobile application. 
 
 ## Tasks ##
+> This low fidelity prototype supports the following tasks:
+> 1. Searching an article
+> 2. Rating an article
+> 3. Exploring the categories for the articles
+> 4. Filtering articles with users' preferences
 
 ## Wireframes and Wireflow (V1 - Before Testing) ##
 ![Before Testing Prototype](prototype.jpg)
@@ -27,3 +32,7 @@ The second task and pathway is just exploration of the article. If they have no 
 * **Minimalist Design**: The amount of information is overwhelming so the site has pull out tabs and "Read More" features. Users are able to get more content at their own discretion. Something else that is included to keep a minimalist feel is the faded texts. There are details here and there with lower opacity rates so that the eyes know where to focus on. When users click on the pull-out box of related articles, the article behind them fades slightly. 
 * **Recommendation Feature**: The recommendation feature is on almost every page in the header. The "Explore" tab is always there because even if users come with a goal in mind, the option to learn more is still there. 
 * **Informational Section/Ratings**: On top of allowing users to submit critiques and comments about the articles, users are also able to rate the articles. From the materials to their tips and warnings, this feature is meant to give the users more control. This is projected to help the article be more helpful for others. In addition to this, the ratings data can be used to help sort related articles and filter out articles by the user's preferences. 
+
+## Prototype Testing ##
+> **User One**
+![User 1 Walkthrough Pathway](user1.jpg)
