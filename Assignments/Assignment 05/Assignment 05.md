@@ -36,3 +36,14 @@ The second task and pathway is just exploration of the article. If they have no 
 ## Prototype Testing ##
 **User One**
 ![User 1 Walkthrough Pathway](user1.jpg)
+> User One had no intention of exploring articles beyond what they were looking for so they searched up the given article and I asked them for an opinion on the article. I wanted to see if the user would utilize tools and options that were offered at the beginning of the article.
+
+Confusion or unexpected interaction: I asked the user to think out loud and they complimented the the way that in each tab, the header was consistent with the same icons. They took longer than expected to skim the article but then scrolled back up to answer the "Was this helpful?" button. They said that because I asked for an opinion, they wanted to be thorough in their examination of the article. They proceeded to the feedback page and complimented the sliding scale. Unlike the fill-in bubbles that express satisfaction, the user felt that they could be more precise with their feelings. After reaching the thank you page, I thought that maybe they'd explore the other articles but instead, they returned to the article before clicking back on the home button to return to the home page.
+
+This user completed the tasks better than I had expected. Their reactions were very realistic considering that most people will find their intended article and leave. They left actual feedback for the prototype as whole in their interaction with the flow as well. They suggested a save article feature. This will be implemented in the second draft of this prototype. 
+
+**User Two**
+![User 2 Walkthrough Pathway](user2.jpg)
+> User Two was more willing to explore the articles on the website because they had more time. The first ting they did was look at trending articles instead of a direct search. I wanted to see how they would react to my attempts at breaking down information through minimalism. Their task was to explore articles beyond their intended search.
+
+Confusion or unexpected interaction: Something that surprised me right away was that this user clicked on "Trending Articles" and then went back to the home page to click "Explore" so that they would see if it would lead them to the same page. Once they did, they clicked saw the more button and told me that they understood the gist of that. This user seemed more curious about how related articles would look on a main article. 
