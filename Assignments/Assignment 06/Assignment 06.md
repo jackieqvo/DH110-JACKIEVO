@@ -24,20 +24,6 @@ This low fidelity prototype supports the following tasks:
 Variations include light-mode, hue variation, dark-mode, and black-out mode.
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
 ![Screen design of color variations](variations.png)
-* Searching an article.
-* Rating an article.
-* Exploring the categories for the articles.
-* Filtering articles with users' preferences.
 
-
-
-
-## Genius Prototype ##
-> Insert prototype here.
-
-## Genius Wireflow ##
-> Insert protoype here.
-
-## About The Prototype ##
-> As this design prototype is heavily based of wikiHow,  
-
+## Accessibility Color Check  ##
+![Screen design of color variations](variations.png)
