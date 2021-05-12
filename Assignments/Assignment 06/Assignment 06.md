@@ -24,6 +24,11 @@ This low fidelity prototype supports the following tasks:
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
 ![Screen templates](design.png)
 
+## Impression Test  ##
+The test transcript could be found [here](placeholderlink).
+
+##Summary of Findings ##
+> Text.
 
 ## Screen Design (With Color Variations)  ##
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
@@ -32,3 +37,9 @@ Variations include light-mode, hue variation, dark-mode, and black-out mode.
 
 ## Accessibility Color Check  ##
 ![Color check for color variations](checker.png)
+
+## Design System  ##
+
+Typeface family + size
+Color scheme: background, primary (default text), focus (ex. button)
+Layout grid + spacing
