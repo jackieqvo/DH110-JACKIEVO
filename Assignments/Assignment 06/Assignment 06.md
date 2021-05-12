@@ -11,3 +11,34 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 
 **What is the process?**
 > The interactions and observations made during usability testing and contextual analysis are all included in the making of this prototype. Once user personas were made, wireframes and wireflows were made in the low-fidelity prototype assignment. Based on the feedback from the users that tested that, another low-fidelity prototype was made. From there, those changes were incorporated into this high-fidelity prototype. This interactive prototype was created using Figma with a ideas derived from the wikiHow website. 
+
+## Prototype Tasks ##
+This low fidelity prototype supports the following tasks:
+
+* Searching an article.
+* Rating an article.
+* Exploring the categories for the articles.
+* Filtering articles with users' preferences.\
+
+## Screen Design (With Color Variations)  ##
+Variations include light-mode, hue variation, dark-mode, and black-out mode.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F2h3xAWoXSih0i7QRTDKXSz%2FGenius-Mobile-Application%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+* Searching an article.
+* Rating an article.
+* Exploring the categories for the articles.
+* Filtering articles with users' preferences.
+
+
+
+
+## Genius Prototype ##
+> Insert prototype here.
+
+## Genius Wireflow ##
+> Insert protoype here.
+
+## About The Prototype ##
+> As this design prototype is heavily based of wikiHow,  
+
