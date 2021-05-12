@@ -18,7 +18,6 @@ This low fidelity prototype supports the following tasks:
 * Searching an article.
 * Rating an article.
 * Exploring the categories for the articles.
-* Filtering articles with users' preferences.
 
 ## Screen Design (Without Color Variations)  ##
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
