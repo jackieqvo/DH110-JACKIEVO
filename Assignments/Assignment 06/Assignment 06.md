@@ -38,6 +38,8 @@ Variations include light-mode, hue variation, dark-mode, and black-out mode.
 ![Screen design of color variations](variations.png)
 
 ## Accessibility Color Check  ##
+The website I used is here [here](https://coolors.co/contrast-checker/112a46-acc8e5) and follows the following guidelines:
+> Web Content Accessibility Guidelines (WCAG). The standard defines two levels of contrast ratio: AA (minimum contrast) and AAA (enhanced contrast).
 ![Color check for color variations](checker.png)
 
 ## Design System  ##
