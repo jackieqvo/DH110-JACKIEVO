@@ -20,10 +20,14 @@ This low fidelity prototype supports the following tasks:
 * Exploring the categories for the articles.
 * Filtering articles with users' preferences.
 
+## Screen Design (Without Color Variations)  ##
+![Screen templates](design.png)
+
+
 ## Screen Design (With Color Variations)  ##
 Variations include light-mode, hue variation, dark-mode, and black-out mode.
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
 ![Screen design of color variations](variations.png)
 
 ## Accessibility Color Check  ##
-![Screen design of color variations](checker.png)
+![Color check for color variations](checker.png)
