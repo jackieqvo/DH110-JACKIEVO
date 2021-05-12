@@ -22,8 +22,7 @@ This low fidelity prototype supports the following tasks:
 
 ## Screen Design (With Color Variations)  ##
 Variations include light-mode, hue variation, dark-mode, and black-out mode.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F2h3xAWoXSih0i7QRTDKXSz%2FGenius-Mobile-Application%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
 
 * Searching an article.
 * Rating an article.
