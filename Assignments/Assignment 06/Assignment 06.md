@@ -23,7 +23,7 @@ This low fidelity prototype supports the following tasks:
 ## Screen Design (With Color Variations)  ##
 Variations include light-mode, hue variation, dark-mode, and black-out mode.
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
-
+![Screen design of color variations](variations.png)
 * Searching an article.
 * Rating an article.
 * Exploring the categories for the articles.
