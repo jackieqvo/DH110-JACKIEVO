@@ -25,7 +25,7 @@ The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QR
 ![Screen templates](design.png)
 
 ## Impression Test  ##
-The test transcript could be found [here](placeholderlink).
+The impression test transcript could be found [here](https://docs.google.com/document/d/103CQg9nxzsVbhwDzv_kWiDAVdOh04zAxaPZHEUeuxp4/edit?usp=sharing).
 
 ##Summary of Findings ##
 > Text.
