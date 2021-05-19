@@ -16,10 +16,16 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 This interactive high fidelity prototype supports the following tasks:
 
 * Searching up an article (article is predetermined).
+  * Users will be looking up how to make a generic pop-up card.
 * Looking into related articles.
+  * On top of the exploration page, there will be tab that will let users explore related articles. In this case, the user will be looking at a navigation page that will lead them to other arts and crafts guides.
 * Submitting feedback and cancelling the submission.
+  * Users will get the chance to submit feedback (fake interaction with established text). There will be required fields but users are also able to cancel their submission. There will be overlays that asks the user if they are sure they are ready to submit, cancel, etc.
+* Question submission.
+  * When looking through an article, users will be able to see frequently asked questions and also submit there own. This again is a fake interaction with established text. 
 * Bookmarking and unbookmarking article(s).
 * Checking trending categories to explore the website.
+  * This trending categories page is a concept. The working button will be the arts and crafts category. Upon clicking this, they will be revisiting the related articles page.
 
 ## Screen Design (Without Color Variations)  ##
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
@@ -49,11 +55,11 @@ The website I used is here [here](https://coolors.co/contrast-checker/112a46-acc
 > For the colors of my day-mode design, I found a color palette by looking up moodboards for academia. Brown tends to invoke feelings of strength and reliability so it was a matter of choosing the shade. I chose a lighter brown so that there would be a contrast to the dark-mode. Not only that, I really wanted the design to feel minimalist and natural. There are no shortcuts to learning so we would *naturally* have to work through classes or in this case, guides, to learn. My background was **#EBEBEB** while my header was had two tones: **#DFCCBB** and **#E5DDD4**. My text was **#3B3B3B** and **#464646** and buttons were consistent to the color of my header. I felt like this all brought the design together. 
 
 ## Revised Screen Design (Version 2) ##
-The Figma file could be found [here](https://www.figma.com/proto/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=8%3A33&scaling=scale-down&page-id=0%3A1).
+The Figma prototype could be found [here](https://www.figma.com/proto/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=8%3A33&scaling=scale-down&page-id=0%3A1).
 ![Screen design of graphic design](designs.png)
 
 ## Wireflow with Graphic Designs (Version 2) ##
-The Figma file could be found [here](https://www.figma.com/proto/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=8%3A33&scaling=scale-down&page-id=0%3A1).
+The Figma prototype could be found [here](https://www.figma.com/proto/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=8%3A33&scaling=scale-down&page-id=0%3A1).
 ![Screen design of graphic design with wireflow](wireflow.png)
 
 * **Iconography**
