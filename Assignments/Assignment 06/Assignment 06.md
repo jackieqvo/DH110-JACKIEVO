@@ -54,6 +54,11 @@ The website I used is here [here](https://coolors.co/contrast-checker/112a46-acc
 ![Color check for color variations](checker.png)
 
 # Revised Prototype #
+The cognitive walkthrough script can be found [here](https://docs.google.com/document/d/1-lMW_VNb3fq7VEDDUiUqh9BXR78Q2-ZV09IQk0gXyv8/edit?usp=sharing).
+> Questions I considered for my cognitive walkthrough:
+* Will my user be able to easily achieve the right outcome?
+* Will th icons I picked easily have the user associate things with the correct action?
+* Are my tasks something that users will actually value when using my application?
 
 ## Design System  ##
 * **Color Scheme**
@@ -64,7 +69,7 @@ The Figma prototype could be found [here](https://www.figma.com/proto/RTitlnkgJG
 ![Screen design of graphic design](designs.png)
 
 ## Wireflow with Graphic Designs (Version 2) ##
-The Figma prototype could be found [here](https://www.figma.com/proto/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=8%3A33&scaling=scale-down&page-id=0%3A1).
+The Figma file could be found [here](https://www.figma.com/file/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=0%3A1).
 ![Screen design of graphic design with wireflow](wireflow.png)
 
 * **Iconography**
@@ -74,7 +79,6 @@ The Figma prototype could be found [here](https://www.figma.com/proto/RTitlnkgJG
 
 * **Iconography Version 2 (Updated)**
 > In the list of resources, I decided to scrap my personally drawn icons and use icons provided in the list. I got my icons from [here](https://fonts.google.com/icons?selected=Material+Icons). Instead of a compass, I chose the shapes for the exploration page so that it would go with the logo and how users are encouraged to think outside the box. Other than that, there are not many icon changes that are not self-explanatory. For instance, I changed the bookmark tab on the article so it would have a plus sign and a check mark. This would better indicate to the user that their article has been saved.
-
 
 * **Typeface + Size**
 > I used a font called Poly since it reminded me of Times New Roman. Poly was sufficient in upholding the academic feeling across the website. It looked clean and had a contrast with the simplicity of the website logo. Test was italicized and had their opacity adjusted accordingly. Some information that I felt wasn't as important or took attention away from the website functions had their opacity turned down. This is seen on the home page. I wanted to show how many guides and how much users are able to learn but still did not want to distract from the search option. This was put at the bottom. 
