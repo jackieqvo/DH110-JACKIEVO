@@ -22,7 +22,7 @@ This interactive high fidelity prototype supports the following tasks:
 * Submitting feedback and cancelling the submission.
   * Users will get the chance to submit feedback (fake interaction with established text). There will be required fields but users are also able to cancel their submission. There will be overlays that asks the user if they are sure they are ready to submit, cancel, etc.
 * Question submission.
-  * When looking through an article, users will be able to see frequently asked questions and also submit there own. This again is a fake interaction with established text. 
+  * When looking through an article, users will be able to see frequently asked questions and also submit there own. This will be a fake interaction with established text. 
 * Bookmarking and unbookmarking article(s).
 * Checking trending categories to explore the website.
   * This trending categories page is a concept. The working button will be the arts and crafts category. Upon clicking this, they will be revisiting the related articles page.
