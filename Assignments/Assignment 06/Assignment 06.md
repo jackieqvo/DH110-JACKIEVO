@@ -49,7 +49,7 @@ The website I used is here [here](https://coolors.co/contrast-checker/112a46-acc
 > For the colors of my day-mode design, I found a color palette by looking up moodboards for academia. Brown tends to invoke feelings of strength and reliability so it was a matter of choosing the shade. I chose a lighter brown so that there would be a contrast to the dark-mode. Not only that, I really wanted the design to feel minimalist and natural. There are no shortcuts to learning so we would *naturally* have to work through classes or in this case, guides, to learn. My background was **#F5F5F5** while my header was had two tones: **#DFCCBB** and **#E5DDD4**. My text was **#3B3B3B** and **#464646** and buttons were consistent to the color of my header. I felt like this all brought the design together. 
 
 ## Revised Screen Design (Version 2) ##
-![Screen design of graphic design](graphics.png)
+![Screen design of graphic design](designs.png)
 
 ## Wireflow with Graphic Designs (Version 2) ##
 ![Screen design of graphic design with wireflow](wireflow.png)
