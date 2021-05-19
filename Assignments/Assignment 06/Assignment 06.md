@@ -53,6 +53,9 @@ The website I used is here [here](https://coolors.co/contrast-checker/112a46-acc
 
 > For the logo, I wanted something simple. I thought of the website Dummies and thought about how discouraging being considered a "dummy" could be. So I considered naming my website Genius. The design has the lightbulb to represent ideas. This is all enclosed in a box that is broken by the lightbulb to show that it is good to think outside of the box and seek remote learning. Even if it's not traditional, anyone that is looking to learn should be considered smart or in this case, a genius!
 
+* **Iconography Version 2 (Updated)**
+> In the list of resources, I decided to scrap my personally drawn icons and use icons provided in the list. I got my icons from [here](https://fonts.google.com/icons?selected=Material+Icons). Instead of a compass, I chose the shapes for the exploration page so that it would go with the logo and how users are encouraged to think outside the box. Other than that, there are not many icon changes that are not self-explanatory. For instance, I changed the bookmark tab on the article so it would have a plus sign and a check mark. This would better indicate to the user that their article has been saved.
+
 
 * **Typeface + Size**
 > I used a font called Poly since it reminded me of Times New Roman. Poly was sufficient in upholding the academic feeling across the website. It looked clean and had a contrast with the simplicity of the website logo. Test was italicized and had their opacity adjusted accordingly. Some information that I felt wasn't as important or took attention away from the website functions had their opacity turned down. This is seen on the home page. I wanted to show how many guides and how much users are able to learn but still did not want to distract from the search option. This was put at the bottom. 
