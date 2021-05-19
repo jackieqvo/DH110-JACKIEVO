@@ -13,11 +13,13 @@ __Digital Humanities 110 | Jacqueline "Jackie" Vo__
 > The interactions and observations made during usability testing and contextual analysis are all included in the making of this prototype. Once user personas were made, wireframes and wireflows were made in the low-fidelity prototype assignment. Based on the feedback from the users that tested that, another low-fidelity prototype was made. From there, those changes were incorporated into this high-fidelity prototype. This interactive prototype was created using Figma with a ideas derived from the wikiHow website. 
 
 ## Prototype Tasks ##
-This low fidelity prototype supports the following tasks:
+This interactive high fidelity prototype supports the following tasks:
 
-* Searching an article.
-* Rating an article.
-* Exploring the categories for the articles.
+* Searching up an article (article is predetermined).
+* Looking into related articles.
+* Submitting feedback and cancelling the submission.
+* Bookmarking and unbookmarking article(s).
+* Checking trending categories to explore the website.
 
 ## Screen Design (Without Color Variations)  ##
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
