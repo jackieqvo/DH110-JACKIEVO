@@ -27,6 +27,9 @@ This interactive high fidelity prototype supports the following tasks:
 * Checking trending categories to explore the website.
   * This trending categories page is a concept. The working button will be the arts and crafts category. Upon clicking this, they will be revisiting the related articles page.
 
+## How does this follow the created persona and scenarios? ##
+The two personas that were made for this project was a younger individual with the drive to learn beyond their schoolwork while the other persona was meant to make the website easy to use and accessible for older individuals who might not be as technologically oriented. The tasks in this prototype support individuals regardless of their skills in technology. 
+
 ## Screen Design (Without Color Variations)  ##
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
 ![Screen templates](design.png)
