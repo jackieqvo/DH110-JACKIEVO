@@ -33,7 +33,7 @@ The impression test transcript could be found [here](https://docs.google.com/doc
 
 > Moving forward, I need to check my wording for things such as the submission button. Users should know that they are about to fill out a longer form rather than just giving the article a thumbs up or down.
 
-## Screen Design (With Color Variations)  ##
+## Initial Screen Design (With Color Variations)  ##
 The Figma file could be found [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application?node-id=0%3A1).
 Variations include light-mode, hue variation, dark-mode, and black-out mode.
 ![Screen design of color variations](variations.png)
@@ -47,6 +47,12 @@ The website I used is here [here](https://coolors.co/contrast-checker/112a46-acc
 ## Design System  ##
 * **Color Scheme**
 > For the colors of my day-mode design, I found a color palette by looking up moodboards for academia. Brown tends to invoke feelings of strength and reliability so it was a matter of choosing the shade. I chose a lighter brown so that there would be a contrast to the dark-mode. Not only that, I really wanted the design to feel minimalist and natural. There are no shortcuts to learning so we would *naturally* have to work through classes or in this case, guides, to learn. My background was **#F5F5F5** while my header was had two tones: **#DFCCBB** and **#E5DDD4**. My text was **#3B3B3B** and **#464646** and buttons were consistent to the color of my header. I felt like this all brought the design together. 
+
+## Revised Screen Design (Version 2) ##
+![Screen design of graphic design](graphics.png)
+
+## Wireflow with Graphic Designs (Version 2) ##
+![Screen design of graphic design with wireflow](wireflow.png)
 
 * **Iconography**
 > I remade stock images of icons in photoshop and illustrator so that it would match the colors on the page. I used gray to contrast to with the light brown and gray. I used universal logos so that they were easily understood. Still, in my next draft, I am considering adding labels anyways. 
