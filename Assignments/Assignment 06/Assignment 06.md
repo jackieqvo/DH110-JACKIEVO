@@ -92,11 +92,11 @@ The Figma file could be found [here](https://www.figma.com/file/RTitlnkgJGe96PjH
 
 # CHANGES #
 
-The color scheme I decided on was a mixture of the variations I provided. While my background was **#EBEBEB**, my header and footer were **#E5DDD4** and **#DFCCBB**. The text was **#3B3B3B**. Whenever I outlined a button, I used **#696969**. I wanted to stick to a brown tone because it felt natural and represented simplicity and dependability. I want the users to feel content when they are looking at my application.
-
 The changes I made from the class impression test can be found from comments [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application). There were a lot of comments about font size for the homepage and how the "What will you learn today?" should be bigger. I took this into account and went through my whole website considering how a mobile app for a text-heavy website might need bigger fonts. I also took out the texts with lowered opacity because accessibility will always come over aesthetics. The text with the lower opacity struggled during the contrast testing so I made sure that everything was at 100%. I stuck with darker grays and used boxes to keep users visually engaged. 
 
-Figma has an intrinsic line height as the default value (auto) so sizes are rounded to the nearest pixel. My sizes were from 12 px to 24 px. I used 24 px for the title of articles and mostly 12 px for buttons. Other text that I felt was more important than regular text and buttons (buttons are already prominent because of their outline) was sized to 14 px. 
+The color scheme I decided on for my high-fidelity prototype was a mixture of the variations I provided. While my background was **#EBEBEB**, my header and footer were **#E5DDD4** and **#DFCCBB**. The text was **#3B3B3B**. Whenever I outlined a button, I used **#696969**. I wanted to stick to a brown tone because it felt natural and represented simplicity and dependability. I want the users to feel content when they are looking at my application.
+
+Figma has an intrinsic line height as the default value (auto) so sizes are rounded to the nearest pixel. My sizes were from 12 px to 24 px. I used 24 px for the title of articles and mostly 12 px for buttons. Other text that I felt was more important than regular text and buttons (buttons are already prominent because of their outline) was sized to 14 px. The high-fidelity prototype can be found [here](https://www.figma.com/proto/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=8%3A33&scaling=scale-down). This same prototype with the wireframes and wireflow can be found [here](https://www.figma.com/file/RTitlnkgJGe96PjHmSxgjf/Genius-Mobile-Prototype?node-id=0%3A1).
 
 The general layout did not change because the peers that saw my prototype were all sure that my application was some variation of wikiHow. 
 
