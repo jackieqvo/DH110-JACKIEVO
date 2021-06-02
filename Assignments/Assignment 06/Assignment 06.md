@@ -81,7 +81,12 @@ The Figma file could be found [here](https://www.figma.com/file/RTitlnkgJGe96PjH
 > In the list of resources, I decided to scrap my personally drawn icons and use icons provided in the list. I got my icons from [here](https://fonts.google.com/icons?selected=Material+Icons). Instead of a compass, I chose the shapes for the exploration page so that it would go with the logo and how users are encouraged to think outside the box. Other than that, there are not many icon changes that are not self-explanatory. For instance, I changed the bookmark tab on the article so it would have a plus sign and a check mark. This would better indicate to the user that their article has been saved.
 
 # CHANGES #
+
+The color scheme I decided on was a micture of the variations I provided. While my background was **#EBEBEB**, my header and footer were **#E5DDD4** and **#DFCCBB**. The text was **#3B3B3B**. Whenever I outlined a button, I used **#696969**. I wanted to stick to a brown tone because it felt natural and represented simplicity and dependability. I want the users to feel content when they are looking at my application.
+
 The changes I made from the class impression test can be found from comments [here](https://www.figma.com/file/2h3xAWoXSih0i7QRTDKXSz/Genius-Mobile-Application). There were a lot of comments about fontsize for the homepage and how the "What will you learn today?" should be bigger. I took this into account and went through my whole website considering how a mobile app for a text-heavy website might need bigger fonts. I also took out the texts with lowered opacity because accessibility will always come over aesthetics. The text with the lower opacity struggled during the contrast testing so I made sure that everything was at 100%. I stuck with darker grays and used boxes to keep users visually engaged. 
+
+Figma has an intrinsic line height as the default value (auto) so sizes are rounded to the nearest pixel. My sizes were from 12 px to 24 px. I used 24 px for the title of articles and mostly 12 px for buttons. Other text that I felt was more important than regular text and buttons (buttons are already prominent because of their outline) was sized to 14 px. 
 
 The general layout did not change because the peers that saw my prototype were all sure that my application was some variation of wikiHow. 
 
@@ -89,6 +94,8 @@ The general layout did not change because the peers that saw my prototype were a
 > I used a font called Poly since it reminded me of Times New Roman. Poly was sufficient in upholding the academic feeling across the website. It looked clean and had a contrast with the simplicity of the website logo. Test was italicized and had their opacity adjusted accordingly. Some information that I felt wasn't as important or took attention away from the website functions had their opacity turned down. This is seen on the home page. I wanted to show how many guides and how much users are able to learn but still did not want to distract from the search option. This was put at the bottom. 
 
 > In regards to the sizing of the content, I made sure that headings were in all capitals. Playing with the capslock is important for emphasis. I considered lapslock but since that stylistic choice strays away from academic writing, I decided not to. The body text of the articles are size 12 while the other important information was size 14 and above.
+
+> Since my application was content heavy, I spaced out the text between each other but utilized as much of the margins as I could.
 
 > I did my best to mimic wikiHow's font sizes but did not stick to their font choice. Their font looked like Arial and that was something that I did not consider to fit my design's vision. 
 
