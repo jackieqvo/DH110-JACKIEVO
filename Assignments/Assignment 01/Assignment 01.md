@@ -61,7 +61,7 @@ Most of the articles follow a format of listing the steps, tips, warnings, and (
 ![Dummies Home page](Dummieshome.png)
 
 **Basic Information:**
-> *Dummies or For Dummies is a series of instructional guides. Dummies is best known for their distinctive books that are in the colors yellow and black. Their intention is to cover various topics and break down information that may appear to be intimidating for beginners. The website itself sports the same colors and a search bar that takes up most of the home page. Just like wikiHow, it is an open source.
+> *Dummies or For Dummies is a series of instructional guides. Dummies is best known for their distinctive books that are in the colors yellow and black. Their intention is to cover various topics and break down information that may appear to be intimidating for beginners. The website itself sports the same colors and a search bar that takes up most of the home page. Just like wikiHow, it is an open source.*
 ![Dummies search bar](Dummiessearch.png)
 
 **Pre-Heuristic Evaluation:**
